@@ -1,5 +1,14 @@
 # AURES_agentbased
 
+With the AURES code, you can simulate auctions for renewable energy. Particularly, the simulation is for uniform pricing and pay-as-bid. For more details, please view the paper:
+
+https://www.researchgate.net/publication/319956827_Putting_renewable_energy_auctions_into_action_-_An_agent-based_model_of_onshore_wind_power_auctions_in_Germany
+
+Please also cite this paper when you use the code (Putting renewable energy auctions into action – An agent-based model of onshore wind power auctions in Germany; August 2017; Energy Policy 110(November 2017):pp. 394-402; DOI: 10.1016/j.enpol.2017.08.024)
+
+
+Further instructions for using the code:
+
 The AURES agentbased code uses the agentbased infrastructure mesa as a basis: https://github.com/projectmesa/mesa
 
 To enable the code to run smoothly, a slight adaptation to the mesa framework has to be made:
